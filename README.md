@@ -1,0 +1,2 @@
+# Unordered Hash Iteration in Perl
+This example demonstrates that the order of iteration over a Perl hash is not guaranteed. The output of the first loop is unpredictable, while the second loop sorts the keys before iteration, ensuring predictable output.
